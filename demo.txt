@@ -1,1 +1,2 @@
 Some text in demo.txt
+echo add some more text to demo.txt
